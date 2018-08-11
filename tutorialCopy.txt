@@ -3,3 +3,4 @@ git config --global user.email johndoe@example.com
 
 kuda2
 shds
+tri setio wadoyo
